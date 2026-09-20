@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/api/enquiries/route": "/api/enquiries",
+  "/api/health/route": "/api/health",
+  "/api/products/route": "/api/products",
+  "/api/scores/route": "/api/scores",
+  "/about/page": "/about",
+  "/categories/page": "/categories",
+  "/contact/page": "/contact",
+  "/new-arrivals/page": "/new-arrivals",
+  "/page": "/",
+  "/play/page": "/play",
+  "/product/[slug]/page": "/product/[slug]",
+  "/shop/page": "/shop"
+}
